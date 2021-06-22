@@ -1,0 +1,223 @@
+body{
+    background: gray; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+div {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 15px;
+    margin: 2px;
+    margin-left: -2px;
+    margin-right: -1px;
+}
+
+#logo {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#name_slogan{
+    text-align: center;
+}
+
+#name_slogan h1{
+    font-size: 3em;
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#name_slogan h2{
+    font-size: large;
+    color:white;
+    font-family:   'Lucida Handwriting', 'Kunstler Script', 'Segoe Script';
+}
+
+
+#about_us{
+    width:100%;
+    height: 100%;
+    padding: 1px;
+    background: #193f7d; 
+     
+    text-align: center;
+}   
+
+#about_us h1{
+    font-family: 'Verdana', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    color: red;
+    text-decoration: underline;
+    text-align: left;
+}
+
+#about_us p{
+    font-size: initial;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#course_info{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#course_info h1{
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+#course_info p{
+    color: white;
+}
+
+#button1 {
+    border: none;
+    background: white;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+#button1:hover {
+    background-color: red;
+    color: white;
+}
+
+#explore_global_market{
+    width: 100%;
+    height: 100%;
+    color: white;
+    background: #193f7d;
+}
+
+#explore_global_market h1{
+    color: red;
+    text-align: center;
+}
+
+#explore_global_market h2{
+    color: red;
+    font-size: 2ch;
+}
+
+#join_us{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: white;
+}
+
+#join_us h3{
+    color: red;
+}
+
+#join_us h1{
+    padding-right: -50px;
+    color: red;
+    text-decoration: underline;
+}
+
+#join_us p{
+    color: blue;
+    font-size: medium;
+}
+
+table{
+    align-items: center;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    color: blue; /* set the text color to blue here */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    font-size: 1.3pc;
+}
+
+a:hover{
+    color: red; /* set the text color to red here */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+}
+
+#open_account {
+    width: 100%;
+    height: 100%;
+    background: #193f7d;
+    text-align: center;
+}
+
+#open_account h3{
+    color: red;
+}
+
+#open_account h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#open_account p{
+    text-align: center;
+    font-size: medium;
+}
+
+#upstox{
+    width: 25%;
+}
+
+#button2 {
+    border: none;
+    background: white;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+#button2:hover {
+    background-color: red;
+    color: white;
+}
+
+#contact_us {
+    width: 100%;
+    height: 100%;
+}
+
+#contact_us h1{
+    color: greenyellow;
+    text-align: left;
+    text-decoration: underline;
+}
+#contact_us p{
+    font-size: 1.2pc;
+}
+
+#contact_us a{
+    font-size: 1.2pc;
+}
+
+footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+   
+  }
